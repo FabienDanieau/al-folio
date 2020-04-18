@@ -27,12 +27,12 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: FabienDanieau # your GitHub user name
 twitter_username: FabienDanieau # your Twitter handle
 linkedin_username: fabiendanieau # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: f9VXSU4AAAAJ # your Google Scholar ID
 orcid_id: 0000-0001-8442-2953 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Fabien_Danieau # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note:
@@ -101,9 +101,9 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Einstein
+  last_name: Danieau
 
-  style: apa
+  style: assets/biblio/ieee-with-url.csl
   locale: en
 
   sort_by: year
@@ -119,6 +119,10 @@ scholar:
   details_dir: bibliography
   details_layout: bibtex.html
   details_link: Details
+
+  bibtex_filters:
+    - latex
+    - markdown
 
   query: "@*"
 
