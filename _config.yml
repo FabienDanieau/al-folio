@@ -6,7 +6,7 @@ email: fabien.danieau@interdigital.com
 description: > # this means to ignore newlines until "url:"
   Dr. Fabien Danieau's personal webpage
 footer_text: >
-  Tous droits réservés
+  Tous droits réservés.
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 url:  # the base hostname & protocol for your site
