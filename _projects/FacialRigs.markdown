@@ -1,58 +1,20 @@
 ---
 layout: page
-title: Facial Rigs
+title: Digital Double
 description: Automatic Generation and Stylization of 3D Facial Rigs.
-img: /assets/img/12.jpg
+img: /assets/img/dd.jpg
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+We present a fully automatic pipeline for generating and stylizing high geometric and textural quality facial rigs. They are automatically rigged with facial blendshapes for animation, and can be used across platforms for applications including virtual reality, augmented reality, remote collaboration, gaming and more. From a set of input facial photos, our approach is to be able to create a photorealistic, fully rigged character in less than seven minutes. The facial mesh reconstruction is based on state-of-the art photogrammetry approaches. Automatic landmarking coupled with ICP registration with regularization provide direct correspondence and registration from a given generic mesh to the acquired facial mesh. Then, using deformation transfer, existing blendshapes are transferred from the generic to the reconstructed facial mesh. The reconstructed face is then fit to the full body generic mesh. Extra geometry such as jaws, teeth and nostrils are retargeted and transferred to the character. An automatic iris color extraction algorithm is performed to colorize a separate eye texture, animated with dynamic UVs. Finally, an extra step applies a style to the photorealis-tic face to enable blending of personalized facial features into any other character. The user's face can then be adapted to any human or non-human generic mesh. A pilot user study was performed to evaluate the utility of our approach. Up to 65% of the participants were successfully able to discern the presence of one's unique facial features when the style was not too far from a humanoid shape.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+#### Paper
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+{% reference danieau2019automatic -f conference.bib %}
 
-
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
+#### Videos 
 <div class="video_row">
     <object type="text/html" data="http://www.dailymotion.com/embed/video/x72iin7" style="width:700px;height:394px;"></object>
 </div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
+<div class="video_row">
+    <object type="text/html" data="http://www.youtube.com/embed/NRnCYlXJSQc" style="width:700px;height:394px;"></object>
 </div>
