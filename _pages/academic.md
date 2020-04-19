@@ -2,7 +2,7 @@
 layout: page
 permalink: /academic/
 title: academic
-description: Teaching / Press/ Professional Service
+description: Teaching / Press / Professional Service
 ---
 
 #### Teaching

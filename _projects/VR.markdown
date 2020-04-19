@@ -5,7 +5,7 @@ description: Using virtual reality for improving the movie experience
 img: /assets/img/vr.jpg
 ---
 
-In this project conducted at Technicolor, we were interested into the use of Virtual Reality to enhance the movie experience and production. In particular we studied the role of the embodiment in an immersive movie experience, and we also developped tools to help content creators with this new type of medium.
+In this project conducted at Technicolor, we were interested into the use of Virtual Reality to enhance the movie experience and production. In particular we studied the role of the embodiment in an immersive movie experience, and we also developped tools to help content creators with this new type of medium. The research work produced by our team was used by Technicolor studios for producing new [VR content](https://mpeg.chiariglione.org/sites/default/files/events/05_Schaefer.pdf).
 
 #### Papers
 

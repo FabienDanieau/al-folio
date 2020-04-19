@@ -5,7 +5,7 @@ description: Study and design of human-robot interfaces for learning
 img: /assets/img/robotics.png
 ---
 
-This project has been conducted during my master thesis. I contributed to a research project aiming at designing human-machine interfaces to teaching words to robots.
+This project has been conducted during my master thesis. I contributed to a research project aiming at designing human-machine interfaces to teach words to robots.
 
 #### Papers
 
