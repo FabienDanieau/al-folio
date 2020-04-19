@@ -21,6 +21,10 @@ Haptic technology, stimulating the sense of touch, is used for years in virtual 
 
 {% reference danieau2012hapseat -f conference.bib %}
 
+{% reference danieau2013h -f others.bib %}
+
+{% reference guillotel2016introducing -f others.bib %}
+
 #### Videos 
 
 <div class="video_row">
@@ -46,3 +50,19 @@ Haptic technology, stimulating the sense of touch, is used for years in virtual 
 <div class="video_row">
     <object type="text/html" data="http://www.youtube.com/embed/dOz2aE560Mg" style="width:700px;height:394px;"></object>
 </div>
+
+#### Award
+
+First Prize of the "Fondation Rennes 1" for my PhD thesis
+
+#### Press
+
+France Bleu. April 2015. [Un siège haptique développé à Rennes pour le cinéma du futur](http://www.francebleu.fr/loisirs/cinema/un-siege-haptique-developpe-rennes-pour-le-cinema-du-futur-2291427) (Fr) <br />
+Rennes Atalante. April 2015. [Un doctorant d'inria rennes reçoit un prix](http://www.rennes-atalante.fr/actualites-technopole/actualites-de-la-technopole/blog/un-doctorant-dinria-rennes-recoit-un-prix-pour-sa-these-sur-le-cinema-haptique.html) (Fr)<br />
+Ouest-France. April 2015. [Un jeune chercheur récompensé pour son siège haptique](http://jactiv.ouest-france.fr/campus/rennes-jeune-chercheur-recompense-pour-son-siege-haptique-46086) (Fr)<br />
+France 2. March 2015. [Un doctorant d’Inria Rennes reçoit un prix pour sa thèse sur le cinéma haptique](http://www.francetvinfo.fr/economie/ <br />forte-hausse-des-demandes-de-brevets-francais_851767.html) (Fr)<br />
+Technicolor. July 2013. [Motion Sensations Simulator](http://www.technicolor.com/en/who-we-are/press-news-center/news/motion-sensations-simulator) (En)<br />
+Inriality. April 2013. [Cinéma : ça va bouger près de chez vous](http://www.inriality.fr/culture-loisirs/cinema/ihm/cinema-ca-va/) (Fr)<br />
+Clubic. April 2013. [CHI 2013 : la technologie revisite les interfaces homme-machine](http://www.clubic.com/diaporama/photo-chi-2013-la-technologie-revisite-les-interfaces-homme-machine-61514/hapseat-868028/) (Fr) <br />
+Huffingtonpost. April 2013. [Hapseat, le fauteuil de cinéma de demain présenté à CHI 2013](http://www.huffingtonpost.fr/2013/04/30/hapseat-fauteuil-cinema-chi-2013_n_3185478.html) (Fr) <br />
+NewScientist. December 2012. [Gaming chair mimics a full-motion simulator](http://www.newscientist.com/blogs/onepercent/2012/12/gaming-chair-full-motion-simulator.html) (En) <br />

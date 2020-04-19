@@ -41,3 +41,9 @@ The development of tactile screens opens new perspectives for co-located images 
 <div class="video_row">
     <object type="text/html" data="http://www.dailymotion.com/embed/video/x3pqkwx" style="width:700px;height:394px;"></object>
 </div>
+
+#### Awards
+
+[Best scientific paper Honorable mention](https://www.irisa.fr/en/actus/best-scientific-paper-honorable-mention-hybrid-team-eurovr-2018-conference), EuroVR 2018, KinesTouch: 3D Force-Feedback Rendering for Tactile Surfaces. <br />
+
+[Best poster award finalist](http://eurohaptics2018.eurohaptics.org/submissions/awards/), Eurohaptics 2018, A tangible surface for digital sculpting in virtual environments.

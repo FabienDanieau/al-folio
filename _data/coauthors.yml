@@ -1,12 +1,3 @@
-Adams:
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
-
-Podolsky:
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
-
-Rosen:
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
 Christie:
     url: http://people.irisa.fr/Marc.Christie/
 
@@ -27,3 +18,6 @@ Argelaguet:
 
 Avril:
     url: http://quentin.avril.free.fr
+
+Multon:
+    url: https://perso.univ-rennes2.fr/franck.multon

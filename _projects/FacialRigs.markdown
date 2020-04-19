@@ -18,3 +18,13 @@ We present a fully automatic pipeline for generating and stylizing high geometri
 <div class="video_row">
     <object type="text/html" data="http://www.youtube.com/embed/NRnCYlXJSQc" style="width:700px;height:394px;"></object>
 </div>
+
+#### Award
+
+The Digital Double demonstration was presented at IBC 2019 and won the IBC Best Show Award presented by [TVB Europe](https://www.tvbeurope.com/business/best-of-show-at-ibc-2019-winners-announced).
+
+#### Press
+
+Hardisk. October 2019. [On m'a cloné](https://www.youtube.com/watch?v=kDSI132lqEU) (Fr)<br />
+InterDigital. September 2019. [InterDigital R&I Recognized for Immersive Video Technology at Inaugural IBC Showcase](https://www.interdigital.com/post/interdigital-ri-recognized-for-immersive-video-technology-at-inaugural-ibc-showcase) (En) <br />
+Ranch Computing. July 2019. [Back from Siggraph 2019 Announcements, exhibitors, keynotes...](https://blog.ranchcomputing.com/back-from-siggraph-2019) (En)
