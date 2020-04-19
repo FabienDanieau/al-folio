@@ -9,7 +9,7 @@ description: Teaching / Press/ Professional Service
 Introduction to haptics and perception of movement. University of Rennes 1, France. <br />
 [Slides](https://github.com/FabienDanieau/coursHaptique/blob/master/coursHaptique.pdf)
 
-Using haptics to improve the cinematographic experience. March 2019. University of Sussex, UK. <br />
+Invited speaker. Using haptics to improve the cinematographic experience. March 2019. University of Sussex, UK. <br />
 
 #### Ph.D. Students
 
