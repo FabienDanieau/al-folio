@@ -21,6 +21,6 @@ Nicolas Olivier (InterDigital). Style transfer for VR avatars. Co-supervised wit
 
 Member of the [Work-In-Progress Editorial Board](http://2018.hapticssymposium.org/wipeditorialboard) for Haptics Symposium 2018. 
 			
-Organizing chair of IEEE AIVR Workshop, <a href="https://aivr2019.github.io/CRDH-workshop/">CRDH</a>: From Capture to Rendering of Digital Huamns for AR/VR. 
+Workshop Co-Chair of IEEE AIVR, <a href="https://aivr2019.github.io/CRDH-workshop/">CRDH</a>: From Capture to Rendering of Digital Huamns for AR/VR. 
 
 Reviewer for IEEE World Haptics, Eurohaptics, IEEE Haptics Symposium, IEEE VR, ACM Siggraph, ACM Siggraph Asia, ACM CHI, IEEE TGCV, ACM VRST.
