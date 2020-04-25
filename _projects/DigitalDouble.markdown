@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Digital Double
-description: Automatic Generation and Stylization of 3D Facial Rigs.
+description: Automatic Generation and Stylization of 3D Facial Rigs
 img: /assets/img/dd.jpg
 ---
 
