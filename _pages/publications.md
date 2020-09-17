@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: <a href="#journals">Journals</> / <a href="#conf">Conferences</a> / <a href="#thesis">PhD Thesis</a> / <a href="#others">Workshops and Demonstrations</a> / <a href="#patents">Patents</>
 j_years: [2020, 2019, 2014, 2012]
-c_years: [2019, 2018, 2017, 2016, 2012, 2011]
+c_years: [2020, 2019, 2018, 2017, 2016, 2012, 2011]
 t_years: [2014]
 o_years: [2016,2013]
 ---

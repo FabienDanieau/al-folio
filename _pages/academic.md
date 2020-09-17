@@ -20,7 +20,10 @@ Nicolas Olivier (InterDigital). Style transfer for VR avatars. Co-supervised wit
 
 #### Professional Service
 
-Workshop Co-Chair of IEEE AIVR 2019, <a href="https://aivr2019.github.io/CRDH-workshop/">CRDH</a>: From Capture to Rendering of Digital Huamns for AR/VR. 
+Lead Guest Editor of the Frontiers Research Topic: [Creating Lifelike Digital Humans](https://www.frontiersin.org/research-topics/15438/creating-lifelike-digital-humans)
+
+Workshop Co-Chair of IEEE AIVR 2020, <a href="https://crdh-workshop.github.io/2020/">CRDH: From Capture to Rendering of Digital Humans for AR/VR</a>. Previous edition: <a href="https://aivr2019.github.io/CRDH-workshop/">2019</a> 
+
 
 Member of the [Work-In-Progress Editorial Board](http://2018.hapticssymposium.org/wipeditorialboard) for Haptics Symposium 2018. 
 
