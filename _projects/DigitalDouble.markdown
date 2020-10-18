@@ -11,6 +11,8 @@ We present a fully automatic pipeline for generating and stylizing high geometri
 
 {% reference olivier2020 -f conference.bib %}
 
+{% reference colas2020fat -f conference.bib %}
+
 {% reference danieau2019automatic -f conference.bib %}
 
 #### Videos 
